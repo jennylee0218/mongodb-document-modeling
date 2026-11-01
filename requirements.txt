@@ -1,0 +1,4 @@
+pymongo>=4.7
+duckdb>=1.0
+pandas>=2.0
+pytest>=8
